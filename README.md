@@ -1,36 +1,37 @@
-# 🚀 Trackly — Smart Routine Builder
+#  Trackly — Smart Routine Builder
 
 Trackly is a modern web application designed to help users **build, manage, and track daily routines** with ease. It focuses on simplicity, clean UI, and a structured user experience to improve consistency and productivity.
 
 ---
 
-## 🌟 Features
+##  Features
 
-* 📋 Create and manage daily routines
-* ✅ Mark tasks as complete
-* 📊 Track progress and consistency
-* 👤 User dashboard for activity overview
-* 🔐 Authentication (Login / Signup) 
-* 🎨 Clean and responsive UI
+*  Create and manage daily routines
+*  Mark tasks as complete
+*  Track progress and consistency
+*  User dashboard for activity overview
+*  Authentication (Login / Signup)
+*  Clean, responsive, and user-friendly UI
 
 ---
 
-## 🧠 Problem It Solves
+##  Problem It Solves
 
 Many users struggle with maintaining consistency in their daily habits. Trackly provides a simple system to **turn plans into actionable routines** and track progress over time.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla / React if used)
+* JavaScript
+* Bootstrap
 * Vite
 
-**Backend (if added):**
+**Backend:**
 
 * Node.js / Python
 * Express / Flask
@@ -40,7 +41,7 @@ Many users struggle with maintaining consistency in their daily habits. Trackly 
 
 ## 📁 Project Structure
 
-```
+```id="structure1"
 trackly/
 │
 ├── index.html
@@ -61,20 +62,20 @@ trackly/
 
 Clone the repository:
 
-```bash
+```bash id="clone1"
 git clone https://github.com/your-username/trackly.git
 cd trackly
 ```
 
 Install dependencies:
 
-```bash
+```bash id="install1"
 npm install
 ```
 
 Run the development server:
 
-```bash
+```bash id="run1"
 npm run dev
 ```
 
@@ -90,23 +91,21 @@ npm run dev
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
-* 🔔 Notifications & reminders
-* 📈 Advanced analytics
-* 🤖 AI-based routine suggestions
-* 📱 Mobile responsiveness improvements
-* 🌙 Dark/Light mode toggle
+*  Notifications & reminders
+*  Advanced analytics
+*  AI-based routine suggestions
+*  Dark/Light mode toggle
+*  Enhanced mobile experience
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
-If you'd like to improve this project:
-
-* Fork the repo
+* Fork the repository
 * Create a new branch
 * Make your changes
 * Submit a pull request
@@ -124,9 +123,4 @@ This project is licensed under the MIT License.
 **Nisha**
 Frontend Developer
 
----
-
-## ⭐ Show Your Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
 
